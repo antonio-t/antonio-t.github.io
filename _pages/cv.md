@@ -11,30 +11,104 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Information Science, Nara Institute of Science and Technology, 2017
+* M.S. in Research in Information and Communication Technologies, The University of Valladolid, 2013 (2nd highest GPA award).
+* B.S. in Telecom Engineering, The University of Valladolid / California State University, 2012 (2nd highest GPA award).
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* AI Research Scientist @ CyberAgent, Inc.: 2021 April - present
+  * Conduct research on learning multimodal data (e.g., video, audio, text)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Project Researcher @ The University of Tokyo: 2017 April - 2021 March
+  * Conduct research on multimedia data understanding and robotics. Lab management
+
+* Visiting Researcher @ RIKEN research institute: 2018 April - 2021 March
+  * Conduct research on automatic diagnosis of cardiac diseases from medical images
+
+* Trainee researcher @ NTT Communication Science Laboratories: 2014 January - 2014 August
+  * Development of a multimodal interaction system (images and gestures)
+
+* Research intern @ University of Valladolid: 2012 May - 2012 November
+  * Development of an interactive editor of 3D environments
+
+* Part-time researcher @ University of Valladolid: 2011 January - 2011 June
+  * Development of algorithms for gesture tracking and recognition using MS Kinect
+
+* Software engineer @ Universidad of Valladolid: 2008 September - 2009 April
+  * Development of web applications with databases for various projects of the regional government.
+
+* Software engineer @ Renault: 2008 July (1 month)
+  * Development of algorithms to track the quality and reliability of the produced vehicles.
+
+Awards
+======
+* International Priority Graduate Program (IPGP) - Intern at Center for Machine Vision
+  * University of Oulu, Finland (2016 Fall)
+
+* Special Research Project award - Creative and International Competitiveness Project
+  * Nara Institute of Science and Technology (2016 March)
+
+* Special lT training programs - IT-Triadic course
+  * Nara Institute of Science and Technology (2015 Course)
+
+* First prize at the UX Design / Media Mix
+  * Nara Institute of Science and Technology / Osaka University of Arts (2015 Course)
+
+* Special Research Project award - Creative and International Competitiveness Project
+  * Nara Institute of Science and Technology (2015 March)
+
+* Monbukagakusho scholarship to carry out the PhD course at a Japanese university
+  * Japanese Ministry of Education, Culture, Sports, Science, and Technology (2014 June)
+
+* Vulcanus in Japan Program to work as an intern at the NTT Communication Science Laboratories
+  * EU-Japan Centre for Industrial Cooperation (2013 April)
+
+* BEST Brussels - Human-machine interaction
+  * University of Brussels (2013 Summer course)
+
+* Special mention in the “Dean’s Honor Roll” - College of Engineering and Computer Science
+  * California State University Sacramento (2011 December)
+
+* Erasmus scholarship to study my last year of university at California State University Sacramento
+  * University of Valladolid (2011 January)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Leadership and management
+  * During my career I created several seminars and study groups, including a university Kendo club
+* Languages and communication skills
+  * Spanish (native), English (professional), Japanese (professional)
+* Multidisciplinarity
+  * I am not only interested in technical backgrounds, but also the medical field, design, etc.
+* Japanese martial arts
+  * I have practiced Kendo (4 dan) and Iaido (3 dan) since 2010
+
+Activities
+======
+* MIRU Wakate - Member (2021~Now)
+
+* Reviewer (2019~Now)
+  * IEEE Transactions on Multimedia
+  * IEEE Transactions on Medical Imaging (TMI)
+  * Medical Image Computing and Computer Assisted Intervention (MICCAI)
+
+* Association of Spanish Researchers in Japan - Member (2017~Now)
+
+* IEEE Young Professionals - Member (2016~Now)
+
+* The University of Tokyo Kendo Club - Guest (2017~2020)
+
+* NAIST Students Association - Committee member (2017)
+
+* NAIST Kendo Club - Founder / President (2015~2017)
+
+* NAIST Science Communicators - Member / Instructor (2016~2017)
+
+Patents
+======
+* 3D environments builder with virtual and augmented reality3D environments builder with virtual and augmented reality (computer program)
+  * ES 00/2013/1628 · Expedición: 22 ene. 2013
 
 Publications
 ======
@@ -53,7 +127,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
