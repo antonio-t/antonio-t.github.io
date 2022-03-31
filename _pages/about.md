@@ -14,10 +14,10 @@ I currently work at the [Cyber Agent's AI Lab](https://cyberagent.ai/ailab/peopl
 
 Navigating the website
 ======
-- Contact: You can find me on LinkedIn, and other platforms (see column on the left).
-- Publications: This tab contains a list of my peer-reviewed publications.
-- Blog posts: A list of the blog posts I wrote for the AI lab's blog.
-- Talks: Presentations about my research, working in Japan, etc.
-- Teaching: Workshops, study groups and my experience working at a university lab.
-- CV: Education, work experience, awards, and a compilation of the items above.
-- Portfolio: Media appearances and other miscellaneous items.
+- [Contact](https://www.linkedin.com/in/antonio-tejero-de-pablos-0a379128): You can find me on LinkedIn and Google Scholar (Twitter coming soon?).
+- [Publications](https://antonio-t.github.io/publications/): A list of my peer-reviewed publications.
+- [Blog posts](https://antonio-t.github.io/year-archive/): A list of the blog posts I wrote for the AI lab's blog.
+- [Talks](https://antonio-t.github.io/talks/): Presentations about my research, working in Japan, etc.
+- [Teaching](https://antonio-t.github.io/teaching/): Workshops, study groups and my experience working at a university lab.
+- [CV](https://antonio-t.github.io/cv/): Education, work experience, awards, and a compilation of the items above.
+- [Portfolio](https://antonio-t.github.io/portfolio/): Media appearances and other miscellaneous items.
