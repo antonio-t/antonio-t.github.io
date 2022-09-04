@@ -12,3 +12,14 @@ traffic, robustly detecting various types of objects such as cars, people, and b
 spectral images as input information for object detection in traffic. Multispectral images are composed of RGB images, near-infrared images, middle-infrared images, and far-infrared images and have multilateral information as a whole. For example, some objects that cannot be visually recognized in the RGB image can be detected in the far-infrared image. To train our multispectral object detection system, we need a multispectral dataset for object detection in traffic. Since such a dataset does not currently exist, in this study we generated our own multispectral dataset. In addition, we propose a multispectral ensemble detection pipeline to fully use the features of multispectral images. The pipeline is divided into two parts: the single-spectral detection model and the ensemble part. We conducted two experiments in this work. In the first experiment, we evaluate our single-spectral object detection model. Our results show that each component in the multispectral image was individually useful for the task of object detection when applied to different types of objects. In the second experiment, we evaluate the entire multispectral object detection system and show that the mean average precision (mAP) of multispectral object detection is 13% higher than that of RGB-only object detection.
 
 [Download here](https://dl.acm.org/doi/10.1145/3126686.3126727)
+
+Bibtex:
+```
+@inproceedings{takumi2017multispectral,
+  title={Multispectral object detection for autonomous vehicles},
+  author={Takumi, Karasawa and Watanabe, Kohei and Ha, Qishen and Tejero-De-Pablos, Antonio and Ushiku, Yoshitaka and Harada, Tatsuya},
+  booktitle={Proceedings of the on Thematic Workshops of ACM Multimedia 2017},
+  pages={35--43},
+  year={2017}
+}
+```

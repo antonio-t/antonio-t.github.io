@@ -10,3 +10,15 @@ excerpt: ''
 In this paper we introduce, to the best of our knowledge, the first adaptation of the Fuzzy ARTMAP neural network for its execution on a GPU, together with a self-designed neural network based on ART models called SOON. The full VisTex database, containing 167 texture images, is proved to be classified in a very short time using these GPU-based neural networks. The Fuzzy ARTMAP neural network implemented on the GPU performs up to ×100 times faster than the equivalent CPU version, while the SOON neural network is speeded-up by ×70 times. Also, using the same texture patterns the Fuzzy ARTMAP neural network obtains a success rate of 48% and SOON of 82% for texture classification.
 
 [Download here](https://www.researchgate.net/profile/Mario-Martinez-Zarzuela/publication/233896213_Fuzzy_ARTMAP_based_neural_networks_on_the_GPU_for_high-performance_pattern_recognition/links/0912f50c9eff35a9ab000000/Fuzzy-ARTMAP-based-neural-networks-on-the-GPU-for-high-performance-pattern-recognition.pdf)
+
+Bibtex:
+```
+@inproceedings{martinez2011fuzzy,
+  title={Fuzzy ARTMAP based neural networks on the GPU for high-performance pattern recognition},
+  author={Mart{\'\i}nez-Zarzuela, Mario and D{\'\i}az-Pernas, FJ and Pablos, A and Perozo-Rond{\'o}n, F and Ant{\'o}n-Rodr{\'\i}guez, M{\'\i}riam and Gonz{\'a}lez-Ortega, D},
+  booktitle={International Work-Conference on the Interplay Between Natural and Artificial Computation},
+  pages={343--352},
+  year={2011},
+  organization={Springer}
+}
+```

@@ -11,3 +11,15 @@ Generating future video from an input video is a useful task for applications su
 makes it dicult to generate a variety of multiple poses. We solve this problem by utilizing two additional inputs to the generator to make the outputs diverse, namely, a latent code (to reflect various behaviors) and an attraction point (to reflect various trajectories). In addition, we generate long-term future human poses using a novel approach based on unidimensional convolutional neural networks. Last, we generate an output video based on the generated poses for visualization. We evaluate the generated future poses and videos using three criteria (i.e., realism, diversity and accuracy), and show that our proposed method outperforms other state-of-the-art works.
 
 [Download here](https://arxiv.org/pdf/1904.07538.pdf)
+
+Bibtex:
+```
+@inproceedings{fushishita2020long,
+  title={Long-Term Human Video Generation of Multiple Futures Using Poses},
+  author={Fushishita, Naoya and Tejero-de-Pablos, Antonio and Mukuta, Yusuke and Harada, Tatsuya},
+  booktitle={European Conference on Computer Vision},
+  pages={596--612},
+  year={2020},
+  organization={Springer}
+}
+```

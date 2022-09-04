@@ -10,3 +10,15 @@ excerpt: ''
 A stenosis is a coronary artery disease (CAD) that poses a high risk to the patient's life by narrowing or blocking completely the vessel. Critical luminal narrowings (i.e. significant stenoses) require urgent intervention, and thus, detecting these cases among all stenoses is vitally important. The performance of previous methods for automatically classifying significant stenosis is limited by the use of hand-crafted features or generic features that cannot represent properly the characteristics of this CAD. In this paper, we present a novel method for automatic classification of significant stenosis from coronary CT angiography scans (CCTA). Our method leverages a state-of-the-art feature extractor for texture classification that describes effectively the appearance of significant stenosis. We extract features from curved planar reformation (CPR) views of the coronary arteries: axial, sagittal, coronal, and two orthogonal diagonal-views. The final decision is made by an ensemble of the classification probabilities of each view, similar to the procedure radiologists follow in the diagnosis of significant stenosis. We evaluate our method using a CCTA-CPR dataset of 57 patients with ground truth annotations provided by three experienced experts (significant stenosis if luminal narrowing  50%). The results of our cross-validated experiments show state-of-the-art classification performance.
 
 [Download here](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_81)
+
+Bibtex:
+```
+@inproceedings{tejero2019texture,
+  title={Texture-based classification of significant stenosis in CCTA multi-view images of coronary arteries},
+  author={Tejero-de-Pablos, Antonio and Huang, Kaikai and Yamane, Hiroaki and Kurose, Yusuke and Mukuta, Yusuke and Iho, Junichi and Tokunaga, Youji and Horie, Makoto and Nishizawa, Keisuke and Hayashi, Yusaku and others},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={732--740},
+  year={2019},
+  organization={Springer}
+}
+```
