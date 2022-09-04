@@ -10,4 +10,5 @@ location: "Tokyo, Japan"
 
 In this webinar I introduce some notions of artificial intelligence and computer vision, in order to explain how machines are able to perceive the world around us. Initially designed to recognize simple patterns in images, artificial neural networks have become more and more complex, and more and more accurate. This allowed their introduction into a wide variety of sectors, ranging from medical to automotive.
 
-- Link COMING SOON
+- [Video of the presentation](https://www.youtube.com/watch?v=XaAjjoiuw5A)
+- [Slides](https://es.slideshare.net/AntonioTejerodePablo/inteligencia-artificialvisin-por-ordenadory-datos-multimodales-ace-japn-webinar-series-20220406)
