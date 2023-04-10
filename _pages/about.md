@@ -14,11 +14,13 @@ I currently work at the [Cyber Agent's AI Lab](https://cyberagent.ai/ailab/peopl
 
 NEWS
 ======
-- 8/7: Introduced a CVPR2022 paper about multimodal learning @ All Japan Computer Vision Study Group ([link](https://antonio-t.github.io/talks/2022-08-07-talk-cvbenkyoukai))
-- 7/28: Presented my poster @ MIRU2022! ([link](https://antonio-t.github.io/portfolio/2022-07-28_media-miru/))
-- 5/20: Wrote a new entry in the CyberAgentAI's blog! I introduce the seminar system, and our "Research skill-up seminar" ([link](https://antonio-t.github.io/posts/2022/04/research-skillup))
-- 5/15: Introduced a paper about multimodal learning @ All Japan Computer Vision Study Group ([link](https://antonio-t.github.io/talks/2022-05-15-talk-cvbenkyoukai))
-- 4/6: Presented an introduction to my research @ the Spanish Researchers Association in Japan ([link](https://antonio-t.github.io/talks/2022-04-06-webinar-ace))
+- 2023/04/07: SPIE published my last research at U-Tokyo about coronary plaque segmentation! ([link](https://antonio-t.github.io/publication/tejero2023improving))
+- 2022/11/23: A paper we were working on at U-Tokyo was published at SCIS&ISIS! ([link](https://antonio-t.github.io/publication/yamane2022readmission))
+- 2022/11/15: Got the 3rd prize on CyberAgent's PoCMOCK contest by presenting a demo for an 'automatic rap beat generator'! ([link](https://antonio-t.github.io/portfolio/2022-11-15_prize-pocmock))
+- 2022/11/05: Moderated a panel discussion about 'industry vs. academia' research @ the 3rd Gathering of the Spanish Researchers Association in Japan ([link](https://antonio-t.github.io/talks/2022-11-05-panel-encuentro_ace))
+- 2022/10/22: Introduced a ECCV2022 paper about multimodal pretraining @ All Japan Computer Vision Study Group ([link](https://antonio-t.github.io/talks/2022-10-22-talk-cvbenkyoukai))
+- 2022/10/21: Participated in a panel discussion about 'industry vs academia' @ the European Research Days in Japan ([link](https://antonio-t.github.io/talks/2022-10-21-panel-european_research_days))
+- 2022/09/01: Our project proposal for an intelligent rehabilitation assistant system was approved for European funding! ([link](https://antonio-t.github.io/cv/))
 
 Navigating the website
 ======

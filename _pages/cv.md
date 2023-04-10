@@ -110,6 +110,25 @@ Patents
 * 3D environments builder with virtual and augmented reality3D environments builder with virtual and augmented reality (computer program)
   * ES 00/2013/1628 · Expedición: 22 ene. 2013
 
+Projects / Funding
+======
+
+* REHABOT: Intelligent assistant for complementing and assessing the physical rehabilitation of pediatric patients with cerebral palsy in their natural environment.
+	- Program: Knowledge Generation Projects
+	- Start date: 2022/09/01
+	- Amount: 88.300,0 €
+	- Effort: Full-time
+	- Research entity: University of Valladolid
+	- Funding entity: Ministry of Science and Innovation, MCINN
+	- Type of entity: University
+	- Number of researchers: 8
+	- City: Valladolid
+	- End date: 2025/08/31
+	- Region: Castilla y Leon
+	- Funding code: PID2021-124515OA-I00
+	- Duration: 3 years
+	- Principal Investigator: Martínez-Zarzuela, M.
+
 Publications
 ======
   <ul>{% for post in site.publications %}
