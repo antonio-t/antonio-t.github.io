@@ -14,6 +14,16 @@ I currently work at the [Cyber Agent's AI Lab](https://cyberagent.ai/ailab/peopl
 
 NEWS
 ======
+- 2023/12/22: CCSE2023, CyberAgent AI Lab's research conference for companies, was a success! I help facilitating collaboration talks among companies and the keynote speech ([link](https://antonio-t.github.io/talks/2023-12-22-ccse2023))
+- 2023/12/19: I presented our AI Lab's research to 25 university students in a company visit organized by IEEE Young Professionals ([link](https://antonio-t.github.io/teaching/2023-12-19_ieeeyp-step2023))
+- 2023/12/01: My research for preventing multimodal overfitting was accepted as a poster presentation at WACV2024 in Hawaii! ([link](https://antonio-t.github.io/publication/tejero2023complementary))
+- 2023/11/25: In the annual meeting of Spanish researchers in Japan, I participated in a panel discussion about Spanish-Japan research collaborations, and presented about my research in heterogeneous data learning ([link](https://antonio-t.github.io/talks/2023-11-25-encuentro_ace2023))
+- 2023/08/19: I helped teaching programming to kids in a class organized by IEEE Young Professionals ([link](https://antonio-t.github.io/teaching/2023-08-19_ieeeyp-programming-kids))
+- 2023/07/25: My research about multimodal learning was accepted as a highlight oral presentation at MIRU2023 in Hamamatsu! ([link](https://antonio-t.github.io/publication/tejero2023dissecting))
+- 2023/07/07: I participated in a joint event between the Association of Spanish Researchers in Japan and the Cervantes Institute to connect research in AI between Japan and Spain.([link](https://antonio-t.github.io/portfolio/2023-07-07_cervantes-ai))
+
+
+
 - 2023/04/07: SPIE published my last research at U-Tokyo about coronary plaque segmentation! ([link](https://antonio-t.github.io/publication/tejero2023improving))
 - 2022/11/23: A paper we were working on at U-Tokyo was published at SCIS&ISIS! ([link](https://antonio-t.github.io/publication/yamane2022readmission))
 - 2022/11/15: Got the 3rd prize on CyberAgent's PoCMOCK contest by presenting a demo for an 'automatic rap beat generator'! ([link](https://antonio-t.github.io/portfolio/2022-11-15_prize-pocmock))

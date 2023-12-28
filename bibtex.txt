@@ -1,0 +1,202 @@
+@article{suzuki2021video,
+  title={Video Ads Content Structuring by Combining Scene Confidence Prediction and Tagging},
+  author={Suzuki, Tomoyuki and Tejero-de-Pablos, Antonio},
+  journal={arXiv preprint arXiv:2108.09215},
+  year={2021}
+}
+
+@inproceedings{tejero2021beam,
+  title={Beam Stack Search-Based Reconstruction Of Unhealthy Coronary Artery Wall Segmentations In CCTA-CPR Scans},
+  author={Tejero-de-Pablos, Antonio and Yamane, Hiroaki and Kurose, Yusuke and Iho, Junichi and Tokunaga, Youji and Horie, Makoto and Nishizawa, Keisuke and Hayashi, Yusaku and Koyama, Yasushi and Harada, Tatsuya},
+  booktitle={2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI)},
+  pages={86--90},
+  year={2021},
+  organization={IEEE}
+}
+
+@article{fushishita2021efficient,
+  title={Efficient training for future video generation based on hierarchical disentangled representation of latent variables},
+  author={Fushishita, Naoya and Tejero-de-Pablos, Antonio and Mukuta, Yusuke and Harada, Tatsuya},
+  journal={arXiv preprint arXiv:2106.03502},
+  year={2021}
+}
+
+@inproceedings{harada2020accurate,
+  title={Accurate Parts Visualization for Explaining CNN Reasoning via Semantic Segmentation.},
+  author={Harada, Ren and Tejero-de-Pablos, Antonio and Harada, Tatsuya},
+  booktitle={BMVC},
+  year={2020}
+}
+
+@inproceedings{inayoshi2020bounding,
+  title={Bounding-box channels for visual relationship detection},
+  author={Inayoshi, Sho and Otani, Keita and Tejero-de-Pablos, Antonio and Harada, Tatsuya},
+  booktitle={European Conference on Computer Vision},
+  pages={682--697},
+  year={2020},
+  organization={Springer}
+}
+
+@inproceedings{fushishita2020long,
+  title={Long-Term Human Video Generation of Multiple Futures Using Poses},
+  author={Fushishita, Naoya and Tejero-de-Pablos, Antonio and Mukuta, Yusuke and Harada, Tatsuya},
+  booktitle={European Conference on Computer Vision},
+  pages={596--612},
+  year={2020},
+  organization={Springer}
+}
+
+@inproceedings{huang2020coronary,
+  title={Coronary Wall Segmentation in CCTA Scans Via a Hybrid Net with Contours Regularization},
+  author={Huang, Kaikai and Tejero-de-Pablos, Antonio and Yamane, Hiroaki and Kurose, Yusuke and Iho, Junichi and Tokunaga, Youji and Horie, Makoto and Nishizawa, Keisuke and Hayashi, Yusaku and Koyama, Yasushi and others},
+  booktitle={2020 IEEE 17th International Symposium on Biomedical Imaging (ISBI)},
+  pages={1743--1747},
+  year={2020},
+  organization={IEEE}
+}
+
+@article{harada2020service,
+  title={Service robots: A unified framework for detecting, opening and navigating through doors},
+  author={Harada, Tatsuya and Tejero-de-Pablos, Antonio and Quer, Stefano and Savarese, Francesco},
+  journal={Springer Communications in Computer and Information Science},
+  volume={1250}
+  number={1}
+  pages={179--204},
+  year={2020},
+  organization={Springer}
+}
+
+@inproceedings{tejero2019texture,
+  title={Texture-based classification of significant stenosis in CCTA multi-view images of coronary arteries},
+  author={Tejero-de-Pablos, Antonio and Huang, Kaikai and Yamane, Hiroaki and Kurose, Yusuke and Mukuta, Yusuke and Iho, Junichi and Tokunaga, Youji and Horie, Makoto and Nishizawa, Keisuke and Hayashi, Yusaku and others},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={732--740},
+  year={2019},
+  organization={Springer}
+}
+
+@inproceedings{tejero2019suppressing,
+  title={Suppressing Racial Bias in Image Recognition via Domain Adaptation},
+  author={TEJERO-DE-PABLOS, Antonio and HARADA, Tatsuya},
+  booktitle={回路とシステムワークショップ論文集 Workshop on Circuits and Systems},
+  volume={32},
+  pages={99--104},
+  year={2019},
+  organization={[電子情報通信学会]}
+}
+
+@inproceedings{savarese2019detecting,
+  title={Detecting, opening and navigating through doors: a unified framework for human service robots},
+  author={Savarese, Francesco and Tejero-de-Pablos, Antonio and Quer, Stefano and Harada, Tatsuya},
+  booktitle={Proceedings of the 14th International Conference on Software Technologies},
+  pages={416--427},
+  year={2019}
+}
+
+@inproceedings{chang2019improved,
+  title={Improved optical flow for gesture-based human-robot interaction},
+  author={Chang, Jen-Yen and Tejero-de-Pablos, Antonio and Harada, Tatsuya},
+  booktitle={2019 International Conference on Robotics and Automation (ICRA)},
+  pages={7983--7989},
+  year={2019},
+  organization={IEEE}
+}
+
+@inproceedings{uehara2018visual,
+  title={Visual question generation for class acquisition of unknown objects},
+  author={Uehara, Kohei and Tejero-De-Pablos, Antonio and Ushiku, Yoshitaka and Harada, Tatsuya},
+  booktitle={Proceedings of the European conference on computer vision (ECCV)},
+  pages={481--496},
+  year={2018}
+}
+
+@article{yamamoto2018conditional,
+  title={Conditional video generation using action-appearance captions},
+  author={Yamamoto, Shohei and Tejero-de-Pablos, Antonio and Ushiku, Yoshitaka and Harada, Tatsuya},
+  journal={arXiv preprint arXiv:1812.01261},
+  year={2018}
+}
+
+@article{tejero2018summarization,
+  title={Summarization of user-generated sports video by using deep action recognition features},
+  author={Tejero-de-Pablos, Antonio and Nakashima, Yuta and Sato, Tomokazu and Yokoya, Naokazu and Linna, Marko and Rahtu, Esa},
+  journal={IEEE Transactions on Multimedia},
+  volume={20},
+  number={8},
+  pages={2000--2011},
+  year={2018},
+  publisher={IEEE}
+}
+
+@inproceedings{takumi2017multispectral,
+  title={Multispectral object detection for autonomous vehicles},
+  author={Takumi, Karasawa and Watanabe, Kohei and Ha, Qishen and Tejero-De-Pablos, Antonio and Ushiku, Yoshitaka and Harada, Tatsuya},
+  booktitle={Proceedings of the on Thematic Workshops of ACM Multimedia 2017},
+  pages={35--43},
+  year={2017}
+}
+
+@inproceedings{tejero2016human,
+  title={Human action recognition-based video summarization for RGB-D personal sports video},
+  author={Tejero-de-Pablos, Antonio and Nakashima, Yuta and Sato, Tomokazu and Yokoya, Naokazu},
+  booktitle={2016 IEEE International Conference on Multimedia and Expo (ICME)},
+  pages={1--6},
+  year={2016},
+  organization={IEEE}
+}
+
+@article{tejero2016flexible,
+  title={Flexible human action recognition in depth video sequences using masked joint trajectories},
+  author={Tejero-de-Pablos, Antonio and Nakashima, Yuta and Yokoya, Naokazu and D{\'\i}az-Pernas, Francisco-Javier and Mart{\'\i}nez-Zarzuela, Mario},
+  journal={EURASIP Journal on Image and Video Processing},
+  volume={2016},
+  number={1},
+  pages={1--12},
+  year={2016},
+  publisher={Springer}
+}
+
+@article{martinez2014action,
+  title={Action recognition system based on human body tracking with depth images},
+  author={Mart{\'\i}nez-Zarzuela, M and D{\'\i}az-Pernas, F and Tejeros-de-Pablos, A and Gonz{\'a}lez-Ortega, D and Ant{\'o}n-Rodr{\'\i}guez, M},
+  journal={Advances in Computer Science: an International Journal},
+  volume={3},
+  pages={115--123},
+  year={2014}
+}
+
+@article{tejero2012advances,
+  title={Advances and current state of the security and privacy in electronic health records: survey from a social perspective},
+  author={Tejero, Antonio and de la Torre, Isabel},
+  journal={Journal of Medical Systems},
+  volume={36},
+  number={5},
+  pages={3019--3027},
+  year={2012},
+  publisher={Springer}
+}
+
+@article{martinezmonitorizacion,
+  title={Monitorizaci{\'o}n del cuerpo humano en 3D mediante tecnolog{\'\i}a Kinect},
+  author={Mart{\'\i}nez, M and D{\'\i}az, FJ and Tejero, A and Perozo, F and Ant{\'o}n, M and Gonz{\'a}lez, D},
+  journal={SAAEI},
+  pages={747--752}
+}
+
+@inproceedings{martinez2011fuzzy,
+  title={Fuzzy ARTMAP based neural networks on the GPU for high-performance pattern recognition},
+  author={Mart{\'\i}nez-Zarzuela, Mario and D{\'\i}az-Pernas, FJ and Pablos, A and Perozo-Rond{\'o}n, F and Ant{\'o}n-Rodr{\'\i}guez, M{\'\i}riam and Gonz{\'a}lez-Ortega, D},
+  booktitle={International Work-Conference on the Interplay Between Natural and Artificial Computation},
+  pages={343--352},
+  year={2011},
+  organization={Springer}
+}
+
+@inproceedings{martinez2009adaptative,
+  title={Adaptative resonance theory fuzzy networks parallel computation using CUDA},
+  author={Mart{\'\i}nez-Zarzuela, Mario and Pernas, FJ and Pablos, A de and Rodr{\'\i}guez, M Ant{\'o}n and Higuera, JF and Giralda, D Boto and Ortega, D Gonz{\'a}lez},
+  booktitle={International Work-Conference on Artificial Neural Networks},
+  pages={149--156},
+  year={2009},
+  organization={Springer}
+}
