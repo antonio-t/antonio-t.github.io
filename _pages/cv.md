@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* AI Research Scientist @ CyberAgent, Inc.: 2021 April - present
+* Research Scientist @ CyberAgent, Inc.: 2021 April - present
   * Conduct research on learning multimodal data (e.g., video, audio, text)
 
 * Project Researcher @ The University of Tokyo: 2017 April - 2021 March
@@ -43,6 +43,9 @@ Work experience
 
 Awards
 ======
+* Automatic generation of rap beats by sampling songs (PocMOC) - Research Scientist at CyberAgent AI Lab
+  * CyberAgent, Japan (2022 Fall)
+
 * International Priority Graduate Program (IPGP) - Intern at Center for Machine Vision
   * University of Oulu, Finland (2016 Fall)
 
@@ -76,7 +79,7 @@ Awards
 Skills
 ======
 * Leadership and management
-  * During my career I created several seminars and study groups, including a university Kendo club
+  * During my career I created several seminars and study groups, including Kendo clubs at the university and at the company
 * Languages and communication skills
   * Spanish (native), English (professional), Japanese (professional)
 * Multidisciplinarity
