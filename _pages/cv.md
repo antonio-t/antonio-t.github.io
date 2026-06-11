@@ -89,16 +89,26 @@ Skills
 
 Activities
 ======
-* MIRU Wakate - Member (2021~Now)
+* CyberAgent Hiphop Club - Founder / President (2025~Now)
+
+* CyberAgent Kendo Club - Founder / President (2024~Now)
+
+* MIRU Wakate - Member (2021~2024)
 
 * Reviewer (2019~Now)
+  * IEEE Computer Vision and Pattern Recognition (CVPR)
+  * IEEE International Conference in Computer Vision (ICCV)
+  * IEEE European Conference in Computer Vision (ECCV)
+  * IEEE Winter Applications in Computer Vision (WACV)
   * IEEE Transactions on Multimedia
   * IEEE Transactions on Medical Imaging (TMI)
   * Medical Image Computing and Computer Assisted Intervention (MICCAI)
 
 * Association of Spanish Researchers in Japan - Member (2017~Now)
 
-* IEEE Young Professionals - Member (2016~Now)
+* IEICE Computer Vision and Image Media (CVIM) study group - Committee (2024~2026)
+
+* IEEE Young Professionals - Member (2016~2024)
 
 * The University of Tokyo Kendo Club - Guest (2017~2020)
 
@@ -110,8 +120,11 @@ Activities
 
 Patents
 ======
-* 3D environments builder with virtual and augmented reality3D environments builder with virtual and augmented reality (computer program)
-  * ES 00/2013/1628 · Expedición: 22 ene. 2013
+* Image selection device and image selection method via diversity (computer program)
+  * Patent number: 7781337 · Issue date: 2025/11/27 · Office: Japan Patent Office
+
+* 3D environments builder with virtual and augmented reality (computer program)
+  * Patent number: ES 00/2013/1628 · Issue date: 2013/01/22 · Office: Spain Patent Office
 
 Projects / Funding
 ======
