@@ -14,13 +14,13 @@ I currently work at the [Cyber Agent's AI Lab](https://cyberagent.ai/ailab/peopl
 
 NEWS
 ======
-- 2026/06/10: I gave an invited lecture at The University of Tokyo! ([link](https://antonio-t.github.io/talks/2026-01-01-lecture-utokyo))
-- 2026/05/13: I gave a tutorial at the CVIM study group! ([link](https://antonio-t.github.io/talks/2026-01-01-tutorial-cvim))
-- 2026/04/28: I gave a presentation at the Search Engineering Tech Talk! ([link](https://antonio-t.github.io/talks/2026-01-01-talk-infosearch))
-- 2026/04/13: Our paper was accepted at CHI2026! ([link](https://antonio-t.github.io/publication/tejero2026chi))
-- 2026/03/06: Two of our papers were accepted at WACV2026! ([link1](https://antonio-t.github.io/publication/tejero2026wacv1)) ([link2](https://antonio-t.github.io/publication/tejero2026wacv2))
+- 2026/06/10: I gave an invited lecture at The University of Tokyo! ([link](https://antonio-t.github.io/talks/2026-06-10-lecture-utokyo))
+- 2026/05/13: I gave a tutorial at the CVIM study group! ([link](https://antonio-t.github.io/talks/2026-05-13-tutorial-cvim))
+- 2026/04/28: I gave a presentation at the Search Engineering Tech Talk! ([link](https://antonio-t.github.io/talks/2026-04-28-talk-infosearch))
+- 2026/04/13: Our paper was accepted at CHI2026! ([link](https://antonio-t.github.io/publication/tejero2026diverxplorer))
+- 2026/03/06: Two of our papers were accepted at WACV2026! ([link1](https://antonio-t.github.io/publication/waseda2026multimodal)) ([link2](https://antonio-t.github.io/publication/kawarada2026training))
 - 2025/11/25: We were granted a new patent for image exploration via diversity! ([link](https://antonio-t.github.io/cv))
-- 2025/08/01: Two of our papers were presented at MIRU2025! ([link1](https://antonio-t.github.io/publication/tejero2025miru1)) ([link2](https://antonio-t.github.io/publication/tejero2025miru2))
+- 2025/08/01: Two of our papers were presented at MIRU2025! ([link1](https://antonio-t.github.io/publication/waseda2025robust)) ([link2](https://antonio-t.github.io/publication/kawarada2025lvlm))
 - 2025/04/01: I founded CyberAgent's hip-hop club! ([link](https://antonio-t.github.io/cv))
 
 Navigating the website
