@@ -26,7 +26,7 @@ NEWS
 
 Navigating the website
 ======
-- [Contact](https://www.linkedin.com/in/antonio-tejero-de-pablos-0a379128): You can find me on LinkedIn and Google Scholar (Twitter coming soon?).
+- [Contact](https://www.linkedin.com/in/antonio-tejero-de-pablos-0a379128): You can find me on LinkedIn, Google Scholar, and [X](https://x.com/toni_tiler).
 - [Publications](https://antonio-t.github.io/publications/): A list of my peer-reviewed publications.
 - [Blog posts](https://antonio-t.github.io/year-archive/): A list of the blog posts I wrote for the AI lab's blog.
 - [Talks](https://antonio-t.github.io/talks/): Presentations about my research, working in Japan, etc.
