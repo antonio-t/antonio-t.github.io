@@ -14,6 +14,7 @@ I currently work at the [Cyber Agent's AI Lab](https://cyberagent.ai/ailab/peopl
 
 NEWS
 ======
+- 2026/06/10: El Norte de Castilla published an interview about my career in Tokyo! ([link](https://antonio-t.github.io/portfolio/2026-06-10_media-elnortedecastilla))
 - 2026/06/10: I gave an invited lecture at The University of Tokyo! ([link](https://antonio-t.github.io/talks/2026-06-10-lecture-utokyo))
 - 2026/05/13: I gave a tutorial at the CVIM study group! ([link](https://antonio-t.github.io/talks/2026-05-13-tutorial-cvim))
 - 2026/04/28: I gave a presentation at the Search Engineering Tech Talk! ([link](https://antonio-t.github.io/talks/2026-04-28-talk-infosearch))
