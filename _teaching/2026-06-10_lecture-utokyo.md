@@ -1,8 +1,8 @@
 ---
 title: "Research tips in the private sector: From topic selection to social implementation"
-collection: talks
+collection: teaching
 type: "Lecture"
-permalink: /talks/2026-06-10-lecture-utokyo
+permalink: /teaching/2026-06-10_lecture-utokyo
 venue: "The University of Tokyo"
 date: 2026-06-10
 location: "Tokyo, Japan"

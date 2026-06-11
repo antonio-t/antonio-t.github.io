@@ -10,4 +10,4 @@ location: "Toyama, Japan"
 
 The IEICE Computer Vision and Image Media (CVIM) study group is a recurring meeting where Japanese researchers present and discuss the latest trends in computer vision and image media. In this tutorial, I introduced the research cycle (topic selection, paper survey, hypothesis evaluation, paper writing, publizicing results) in the context of the private company. In particular, I focused on the importance of "social implementation" as a way of outputting research results. In addition, I provided several tips on how to perform certain research tasks more efficiently via AI tools, etc.
 
-- TODO: [Slides](TODO)
+- [Slides](https://www.slideshare.net/slideshow/research-tips-in-the-enterprise-from-topic-selection-to-real-world-implementation/287977853)
